@@ -21,9 +21,10 @@ author: Jason Paul Gounder
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Get Started in Cybersecurity:
+    - Learn the Basics: "https://tryhackme.com/"
+    - Let's Play Wargames!: "https://overthewire.org/"
+  Connect on Linkedin: "https://www.linkedin.com/in/jason-gounder-8171342a6/"
 
 ################
 # --- Logo --- #
