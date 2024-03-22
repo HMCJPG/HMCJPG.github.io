@@ -8,7 +8,7 @@ My name is Jason. I'm a second year student at Harvey Mudd College, pursuing a d
 
 ### My story
 
-I grew up in Phoenix, Arizona, where I was fortunate enough to be immersed in the realm of cybersecurity through the AZ Cyber Initiative Bootcamp in early high school -- I know support the same bootcamp as an intern! Talk about coming full circle.
+I grew up in Phoenix, Arizona, where I was fortunate enough to be immersed in the realm of cybersecurity through the AZ Cyber Initiative Bootcamp in early high school -- I now support the same bootcamp as an intern! Talk about coming full circle.
 
 So... why cybersecurity?
 
